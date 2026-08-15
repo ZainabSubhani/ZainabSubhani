@@ -7,13 +7,8 @@
 Building my Android development journey one project at a time.
 
 **Sahiwal, Pakistan** ·
-<a href="mailto:zainabsubhnai002@gmail.com">YOUR_EMAIL@gmail.com</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/zainab-subhani124/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="mailto:zainnabsubhani002@gmail.com">zainnabsubhani002@gmail.com</a>
+<a href="https://www.linkedin.com/in/zainab-subhani124/">LinkedIn</a>
 
 </div>
 
@@ -34,25 +29,25 @@ Building my Android development journey one project at a time.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python" />
 </p>
 
-### Android
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,android" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
 </p>
 
 ### Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gradle" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
