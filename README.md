@@ -6,7 +6,7 @@
 
 Building my Android development journey one project at a time.
 
-**Sahiwal, Pakistan** ·
+
 <a href="mailto:zainnabsubhani002@gmail.com">zainnabsubhani002@gmail.com</a>
 <a href="https://www.linkedin.com/in/zainab-subhani124/">LinkedIn</a>
 
