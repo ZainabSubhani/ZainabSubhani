@@ -8,6 +8,7 @@ Building my Android development journey one project at a time.
 
 
 <a href="mailto:zainnabsubhani002@gmail.com">zainnabsubhani002@gmail.com</a>
+<a>.</a>
 <a href="https://www.linkedin.com/in/zainab-subhani124/">LinkedIn</a>
 
 </div>
