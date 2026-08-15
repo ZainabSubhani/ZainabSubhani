@@ -10,15 +10,6 @@
 
 Building my Android development journey one project at a time.
 
-<br>
-
-<a href="https://github.com/ZainabSubhani">
-  <img src="https://img.shields.io/github/followers/ZainabSubhani?label=Followers&style=for-the-badge" />
-</a>
-<a href="https://github.com/ZainabSubhani">
-  <img src="https://komarev.com/ghpvc/?username=ZainabSubhani&style=for-the-badge&color=blueviolet" />
-</a>
-
 </div>
 
 ---
