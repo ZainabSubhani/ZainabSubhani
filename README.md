@@ -29,6 +29,3 @@ Computer Science graduate building native Android applications with Kotlin, Fire
 
 ---
 
-## GitHub Stats
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=ZainabSubhani&show_icons=true&theme=default&hide_title=true" height="150" /> </p>
