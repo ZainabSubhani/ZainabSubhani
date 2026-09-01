@@ -1,57 +1,36 @@
 <div align="center">
 
-# Hi, I'm Zainab Subhani
+# Zainab Subhani
 
-### `Junior Android Developer` · `Kotlin` · `Android`
+### Junior Android Developer · Kotlin · Firebase
 
-Building my Android development journey one project at a time.
+Computer Science graduate building native Android applications with Kotlin, Firebase, and modern Android architecture.
 
-
-<a href="mailto:zainnabsubhani002@gmail.com">zainnabsubhani002@gmail.com</a>
-<a>.</a>
-<a href="https://www.linkedin.com/in/zainab-subhani124/">LinkedIn</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zainnabsubhani002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-subhani124/)
 
 </div>
 
 ---
 
-## ABOUT ME
+## About
 
-- Computer Science graduate
-- Focused on Android development with Kotlin
-- Learning by building practical applications
-- Currently strengthening my Android development skills
-- Preparing for my first Junior Android Developer role
+- Computer Science graduate (COMSATS University Islamabad, Sahiwal Campus)
+- Building Android applications with Kotlin, XML, Firebase (Auth, Firestore, Storage), RecyclerView, Fragments, and Navigation Component
+- Working toward MVVM architecture, Room, and Retrofit for structured, testable Android apps
 
 ---
 
-## TECH STACK
-
-### Languages
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,python" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github" />
 </p>
 
 ---
 
+## GitHub Stats
 
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_title=true" height="150" />
+</p>
