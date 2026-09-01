@@ -53,47 +53,5 @@ Building my Android development journey one project at a time.
 
 ---
 
-## KOTLIN JOURNEY
 
-I'm documenting my Kotlin learning journey through structured practice and progressively harder exercises.
 
-### KotlinFundamentals
-
-<a href="https://github.com/ZainabSubhani/KotlinFundamentals">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZainabSubhani&repo=KotlinFundamentals&theme=transparent&hide_border=true" />
-</a>
-
-### Currently Covered
-
-| Topic | Status |
-|---|:---:|
-| Variables & Data Types | ✅ |
-| Operators | ✅ |
-| Strings & String Templates | ✅ |
-| Conditions | ✅ |
-| Loops | ✅ |
-| Functions | ✅ |
-| Collections | ✅ |
-| `map()` / `filter()` / `forEach()` | ✅ |
-| Null Safety | ✅ |
-| Classes & Constructors | ✅ |
-| Data Classes | ✅ |
-| Lambdas | ✅ |
-| Higher-Order Functions | ✅ |
-
-### Currently Learning
-
-```text
-Scope Functions
-      ↓
-Advanced Kotlin
-      ↓
-Android Fundamentals
-      ↓
-MVVM
-      ↓
-Room
-      ↓
-Retrofit
-      ↓
-Coroutines
