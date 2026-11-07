@@ -6,7 +6,7 @@
 
 Computer Science graduate building native Android applications with Kotlin, Firebase, and modern Android architecture.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zainnabsubhani002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zainabsubhani511@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-subhani124/)
 
 </div>
